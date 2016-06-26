@@ -1,0 +1,6 @@
+framework module GDCPopup {
+  umbrella header "GDCPopup.h"
+
+  export *
+  module * { export * }
+}
